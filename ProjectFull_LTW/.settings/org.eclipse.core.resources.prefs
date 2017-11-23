@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/controllers/EmployeeServlet.java=UTF-8
+encoding//src/wp/servlet/AddComment.java=UTF-8
+encoding//src/wp/servlet/AddCommentWithCookie.java=UTF-8
+encoding//src/wp/servlet/AddCommentWithSession.java=UTF-8
